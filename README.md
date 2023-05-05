@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [@Doommius](https://github.com/Doommius)
 - 👀 I’m interested in CTFs, Hardware, Food, and Infra
-- 🌱 I’m currently learning Bicep, .Net, 
+- 🌱 I’m currently learning Rust 
 - 📫 How to reach me [@🐦](https://twitter.com/doommius), [@✉️](mailto:github@doommius.com) or [@📸](https://instagram.com/doommius)
 
 <!---
